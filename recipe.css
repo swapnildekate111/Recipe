@@ -38,10 +38,21 @@ body {
 }
 
 .text-bold {
-    font-weight: bold;;
+    font-weight: bold;
+    background-color: #FFFFA8;
+    font-style: italic;
 }
 
 .comment-highlight {
     background-color: #FFFFA8;
     font-style: italic;
+}
+
+.link {
+    text-decoration: none;
+    color: #A4A400;;
+}
+
+.copyright {
+    font-family: 'Courier New', Courier, monospace;
 }
