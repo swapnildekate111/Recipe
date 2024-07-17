@@ -40,3 +40,8 @@ body {
 .text-bold {
     font-weight: bold;;
 }
+
+.comment-highlight {
+    background-color: #FFFFA8;
+    font-style: italic;
+}
